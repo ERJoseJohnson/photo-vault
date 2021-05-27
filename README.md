@@ -4,6 +4,7 @@
 - Application has been tested on my Pixel 4a, running Android 11.
 - Running `flutter run` with a physical device connected should install eand execute the application.
 - Alternatively, VS Code's built-in debugger can be used for execution.
+- NOTE: Not tested for iOS. But the relevant permissions has been added to the best of my knowledge.
 ## Implemented features
 1. Set master PIN to lock app
 2. Create albums
